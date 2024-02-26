@@ -1,0 +1,10 @@
+*{
+    background-color: beige;
+}
+h2,h3{
+    color:brown;
+    font-style: initial;
+}
+p,ul{
+    color:crimson;
+}
